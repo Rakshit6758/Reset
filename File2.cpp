@@ -1,4 +1,4 @@
-i#include <iostream>
+#include <iostream>
 #include <math.h>
 using namespace std;
 
@@ -7,9 +7,9 @@ void smallest(int per_rec,int per_cir,int per_sqr,int per_tra)// program for bin
 
       if(per_rec<per_cir,per_rec<per_sqr,per_rec<per_tra)
       {
-         cout<<"perimeter of rectangle is smallest"<<endl;
+         cout<<"perimeter of rectangle is smallest"<<endl; // hello
       }
-      else if(per_cir<per_rec,per_cir<per_sqr,per_cir<per_tra)
+      else if(per_cir<per_rec,per_cir<per_sqr,per_cir<per_tra) // else if
       {
         cout<<"perimeter of circle is smallest"<<endl;
       }

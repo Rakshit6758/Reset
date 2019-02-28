@@ -6,9 +6,9 @@ int main()
  
  cout<<"Truth Table Of XY+Z:\n";//Truth table Will be created
  cout<<"X"<<"\t"<<"Y"<<"\t"<<"Z"<<"\t"<<"XY+Z";// cout
- for(x=0;x<=1;x++)
+for(x=0;x<=1;x++)
  {
- for(y=0;y<=1;y++)
+ for(y=0;y<=1;y++)// for loop
  {
  for(z=0;z<=1;z++)
  {
