@@ -3,7 +3,7 @@ using namespace std;
  int main()  
 {  
  int a[10],n,i;    
- cout<<"Enter the number to convert:";    
+ cout<<"Enter the number to convert:";// binary program
  cin>>n;    
  for(i=0;n>0;i++)    
   {    
