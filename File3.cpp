@@ -5,7 +5,7 @@ using namespace std;
  int a[10],n,i;    
  cout<<"Enter the number to convert:";// binary program
  cin>>n;    
- for(i=0;n>0;i++)    
+ for(i=0;n>0;i++)    // binary steps
   {    
    a[i]=n%2;    
    n= n/2;  
