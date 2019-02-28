@@ -1,8 +1,8 @@
-#include <iostream>
+i#include <iostream>
 #include <math.h>
 using namespace std;
 
-void smallest(int per_rec,int per_cir,int per_sqr,int per_tra)
+void smallest(int per_rec,int per_cir,int per_sqr,int per_tra)// program for binary`
 {
 
       if(per_rec<per_cir,per_rec<per_sqr,per_rec<per_tra)
